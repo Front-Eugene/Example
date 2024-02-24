@@ -1,0 +1,38 @@
+* {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.main {
+    transition: 3s;
+}
+
+.text {
+    background: #40e96d; 
+    position: sticky; 
+    top: 0;
+}
+
+.text-1 {
+    background: #cde940; 
+    position: sticky; 
+    top: 0;
+}
+
+.text-2 {
+    background: #bc40e9; 
+    position: sticky; 
+    top: 0;
+}
+
+.text-3 {
+    background: #e94040; 
+    position: sticky; 
+    top: 0;
+}
